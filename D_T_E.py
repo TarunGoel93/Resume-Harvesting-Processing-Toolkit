@@ -24,7 +24,7 @@ from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-DRIVE_FOLDER_NAME = "I"   # ← exact name of your Drive folder
+DRIVE_FOLDER_NAME = "K"   # ← exact name of your Drive folder
 OUTPUT_XLSX       = "drive_file_index.xlsx"
 # ─────────────────────────────────────────────────────────────────────────────
 
